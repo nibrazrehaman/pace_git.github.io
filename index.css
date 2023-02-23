@@ -1,0 +1,32 @@
+*:hover{
+    color: aqua;
+    /* background-image: url("1.jpg"); */
+}
+
+h4,h2{
+    color: #8a2be2;
+    opacity: 0.5;
+    border-style: dashed;
+    position:relative;
+}
+p{
+    color: chocolate;
+    font-style: italic;
+    font-weight: bold;
+    text-align:justify;
+    overflow: hidden;
+}
+.intro{
+    color:rgba(0, 255,245, 0.3);
+}
+#name{
+    color: crimson;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    padding:20px;
+    border:12px solid black;
+    background-color: red;
+    border-radius: 90%;
+}
